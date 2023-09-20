@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/overwall-full-project/static/css/main.aee4547e.css",
+    "main.js": "/overwall-full-project/static/js/main.493e239c.js",
+    "static/media/frame-1000004485@3x.png": "/overwall-full-project/static/media/frame-1000004485@3x.243f53bfc0982c9c83f1.png",
+    "index.html": "/overwall-full-project/index.html",
+    "main.aee4547e.css.map": "/overwall-full-project/static/css/main.aee4547e.css.map",
+    "main.493e239c.js.map": "/overwall-full-project/static/js/main.493e239c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aee4547e.css",
+    "static/js/main.493e239c.js"
+  ]
+}

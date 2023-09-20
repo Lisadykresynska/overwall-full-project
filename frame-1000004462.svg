@@ -1,0 +1,37 @@
+<svg width="1512" height="736" viewBox="0 0 1512 736" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_801)">
+<rect width="1512" height="736" fill="white"/>
+<rect y="1" width="913" height="981" fill="url(#paint0_linear_1_801)"/>
+<path d="M734.61 0L1512 0.000202033V982L756.5 982C756.5 982 756.5 982 754.343 920.211C746.046 682.58 925.957 601.888 873.781 428.108C835.353 300.117 661.908 205.778 734.61 0Z" fill="url(#paint1_angular_1_801)"/>
+<path opacity="0.2" d="M766.46 0H1512V982H766.5C783.497 770.731 931.133 688.026 882.612 521.647C846.578 398.088 690.16 305.418 736.51 117C738.905 107.262 762.937 10.2674 766.46 0Z" fill="url(#paint2_angular_1_801)"/>
+<path opacity="0.2" d="M788.157 0H1512V982H774.5C774.5 982 774.5 953.288 774.5 891.5C774.5 653.724 867.676 612.28 815.5 438.5C777.072 310.509 725.547 207.5 788.157 0Z" fill="url(#paint3_angular_1_801)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1_801" x1="456.5" y1="1" x2="456.5" y2="982" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5B56BD"/>
+<stop offset="0.449335" stop-color="#293285"/>
+<stop offset="1" stop-color="#0A004A"/>
+</linearGradient>
+<radialGradient id="paint1_angular_1_801" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1209.5 844) rotate(-65.9527) scale(721.835 636.453)">
+<stop offset="0.00338471" stop-color="#28B4A7"/>
+<stop offset="0.143554" stop-color="#0549E3"/>
+<stop offset="0.672994" stop-color="#370DAE"/>
+<stop offset="0.863652" stop-color="#4D71B8"/>
+</radialGradient>
+<radialGradient id="paint2_angular_1_801" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1276.5 818.5) rotate(-67.3221) scale(589.434 509.07)">
+<stop offset="0.111924" stop-color="#4981FF"/>
+<stop offset="0.632206" stop-color="#5528D8"/>
+<stop offset="0.809809" stop-color="#4D71B8"/>
+<stop offset="1" stop-color="#28B4A7"/>
+</radialGradient>
+<radialGradient id="paint3_angular_1_801" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1512 820) rotate(-95.0704) scale(637.681 562.254)">
+<stop offset="0.0125782" stop-color="#28B4A7"/>
+<stop offset="0.111924" stop-color="#0549E3"/>
+<stop offset="0.632206" stop-color="#370DAE"/>
+<stop offset="0.809809" stop-color="#4D71B8"/>
+</radialGradient>
+<clipPath id="clip0_1_801">
+<rect width="1512" height="736" fill="white"/>
+</clipPath>
+</defs>
+</svg>
